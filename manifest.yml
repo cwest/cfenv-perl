@@ -1,0 +1,5 @@
+---
+applications:
+- name: cfenv-perl
+  memory: 20M
+  buildpack: https://github.com/miyagawa/heroku-buildpack-perl.git
